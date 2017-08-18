@@ -1,2 +1,2 @@
 # LCDF-notes
-Note of Logic and Computer Design Fundamentals
+Notes of Logic and Computer Design Fundamentals
